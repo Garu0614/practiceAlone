@@ -1,0 +1,18 @@
+package sec01.exam03;
+
+public class IfElseIfElseExample {
+
+	public static void main(String[] args) {
+		int score = 75;
+		
+		if(score>=90) {
+			
+		} else if (score>=80) {
+	
+		} else if (score>=70 ) {
+			
+		} else {
+			
+		}
+
+}

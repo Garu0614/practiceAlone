@@ -1,0 +1,8 @@
+INDEX VERSION 1.132+C:\Users\sghlo\Desktop\PracticeAlone\.metadata\.plugins\org.eclipse.jdt.core
+2663481984.index
+1865797976.index
+2007115701.index
+3922113046.index
+4242768837.index
+130601786.index
+10819363.index

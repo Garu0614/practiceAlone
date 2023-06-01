@@ -17,12 +17,6 @@ public class MainStringArrayArgument {
 
 		int result = num1 + num2;
 		System.out.println(num1 + " + " + num2 + " = " + result);
-		
-		//명령 프롬프트에서도 실습 완료
-		//		C:\Users\sghlo>cd C:\Users\sghlo\Desktop\PracticeAlone\chap05\bin
-		//		C:\Users\sghlo\Desktop\PracticeAlone\chap05\bin>java -p . -m chap05/sec02.exam05.MainStringArrayArgument 3 5
-		//		3 + 5 = 8
-		//		C:\Users\sghlo\Desktop\PracticeAlone\chap05\bin>java sec02.exam05.MaingStringArrayArgument 3 5
 	}
 
 }
